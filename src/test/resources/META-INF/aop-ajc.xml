@@ -1,0 +1,7 @@
+<aspectj>
+    <aspects>
+        <aspect name="io.github.mi8qa.restassured.await.RestAttempted"/>
+    </aspects>
+    <weaver options="-warn:none -Xlint:ignore">
+    </weaver>
+</aspectj>

@@ -1,0 +1,7 @@
+### Endpoint
+GET http://localhost:8080/myapi/resource?code=myValue
+Origin: localhost
+Accept: */*
+Content-Type: text/plain; charset=ISO-8859-1
+
+{"abc": 1, "cba":"cba"}
